@@ -3,10 +3,10 @@ Build a multiple linear regression model for the prediction of demand for shared
 
 
 ## Table of Contents
-* [About the company](#About the company)
-* [Problem Statement](#general-information)
+* [About the company](#About-the-company)
+* [Problem Statement](#Problem-statement)
+* [Conclusions](#Conclusions)   
 * [Technologies Used](#technologies-used)
-* [Conclusions](#Conclusions)
 * [Acknowledgements](#acknowledgements)
 
 <!-- You can include any other section that is pertinent to your problem -->
