@@ -54,7 +54,3 @@ Recommendations to Boom Bike's bike
 - seaborn library
 - sklearn library
 - statsmodels library
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by upGrad's assignment
